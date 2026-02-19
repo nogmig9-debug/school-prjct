@@ -1,0 +1,2 @@
+# school-prjct
+education AI
